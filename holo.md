@@ -22,7 +22,7 @@ This planted seed is **portable and self-sustaining**. The parent project may be
 - [`holo-qr.svg`](./holo-qr.svg) — the summoning QR (encodes `#summon&seed=…` for rapp-zoo / RAPPcards binders)
 - [`soul.md`](./soul.md) — the persistent identity block (read every turn)
 - [`neighborhood.json`](./neighborhood.json) — the machine-readable identity + protocol params
-- [`rappid.json`](./rappid.json) — the v2 rappid (permanent identity per Constitution Art. XXXIV.5)
+- [`rappid.json`](./rappid.json) — the rappid (permanent identity per Constitution Art. XXXIV.5; Eternity format `rappid:@<owner>/<slug>:<hex>` per Art. XXXIV.1)
 - [`specs/`](./specs/) — bundled formal contracts (HOLOCARD_SPEC, RAPPID_SPEC, ANTIPATTERNS, SOUL_IDENTITY, PARTICIPATION, BRAINTRUST_PROTOCOL.md)
 - [`rar/index.json`](./rar/index.json) — the participation kit (sha256-pinned agents you may want to load)
 

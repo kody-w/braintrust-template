@@ -1,6 +1,7 @@
 {
   "schema": "rapp-neighborhood/1.0",
-  "neighborhood_rappid": "dd06b965-69e6-4706-a289-de32b9257de1",
+  "neighborhood_rappid": "rappid:@kody-w/braintrust-template:dd06b96569e64706a289de32b9257de1",
+  "_migrated_from": "dd06b965-69e6-4706-a289-de32b9257de1",
   "kind": "braintrust",
   "name": "braintrust-template",
   "display_name": "Project Braintrust (template)",
