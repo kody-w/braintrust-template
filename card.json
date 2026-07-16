@@ -53,7 +53,7 @@
     "license": "PolyForm-Small-Business",
     "kind": "braintrust",
     "rappid": "rappid:@kody-w/braintrust-template:dd06b96569e64706a289de32b9257de1",
-    "_migrated_from": "rappid:v2:braintrust:@kody-w/braintrust-template:dd06b96569e64706a289de32b9257de1@github.com/kody-w/braintrust-template",
+    "_migrated_from": "rappid:v2:braintrust:@kody-w/braintrust-template:dd06b96569e64706a289de32b9257de1@github.com/kody-w/braintrust-template", "_migrated_from_note": "legacy v2 string, read-forever; the canonical rappid above is authoritative",
     "gate_url": "https://kody-w.github.io/braintrust-template/",
     "summon_url": "https://kody-w.github.io/RAPPcards/#summon&seed=12775470536537129534",
     "_compliance": "rappcards/1.1.2 \u2014 kody-w/RAPPcards/SPEC.md"
