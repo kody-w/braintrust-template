@@ -1,5 +1,9 @@
 # Project Braintrust (template)
 
+<!-- rapp1:network-header:start -->
+[![RAPP/1](https://kody-w.github.io/rapp-hive-public/portfolio/badges/braintrust-template.svg)](https://github.com/kody-w/rapp-hive-public/blob/main/portfolio/repos/braintrust-template.md) · **New to RAPP?** [Start here: get your Brainstem →](https://github.com/kody-w/rapp-installer#start-here)
+<!-- rapp1:network-header:end -->
+
 A federated-research RAPP neighborhood. Drop a request in; every online contributor's brainstem queries THEIR own library; findings synthesize into a bibliography-annotated report with full consensus before merge.
 
 This is the **fifth canonical seed** in `installer/neighborhood-seeds/`, demonstrating the **Project Braintrust pattern** — the pattern where a distributed neighborhood of librarians collaborates asynchronously without anyone having to be in the loop synchronously.
